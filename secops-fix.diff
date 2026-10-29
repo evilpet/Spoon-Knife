@@ -1,0 +1,6 @@
+diff --git a/exfil/leak.txt b/exfil/leak.txt
+new file mode 100644
+--- /dev/null
++++ b/exfil/leak.txt
++EXFIL_MARKER_ROUND1
++padding line for visibility
